@@ -1,0 +1,8 @@
+scikit-learn
+pandas==1.5.3
+scipy
+matplotlib
+numpy==1.23
+mxnet==1.6.0
+gluonts==0.12.0
+openpyxl
